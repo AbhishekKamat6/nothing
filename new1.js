@@ -1,0 +1,5 @@
+let a = "hello"
+let b = "hey"
+let c = "fine"
+let d = "not fine"
+let e = "hello"
